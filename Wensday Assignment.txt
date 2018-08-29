@@ -1,0 +1,26 @@
+Example
+
+/24 is only one (1) octet so 192.168.0.xxx 
+a /16 is 192.168.xxx.xxx 
+ 
+11111111.11111111.11111111.11111111
+
+That is what describes a IPv4 address.
+
+Recall that each 1 is a bit. Each set of eight bits is a byte. 
+
+
+Assignment
+
+I want you to write me a small python program that asks me how many addresses I need and then tells me the  best CIDR block number (/16, /24, /27, etc).
+
+2 Assignment 
+
+Once you figure that out, I want your output to also include an example range:
+
+Your available IP addresses start at:
+192.168.0.0
+
+And end at:
+192.168.0.127 
+ 
